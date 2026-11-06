@@ -81,7 +81,7 @@ class OpenRouterClient(
         val request = Request.Builder()
             .url("https://openrouter.ai/api/v1/images")
             .header("Authorization", "Bearer ${apiKey.trim()}")
-            .header("HTTP-Referer", "https://github.com/vickyvam72/LumiStickerize")
+            .header("HTTP-Referer", "https://github.com/VAMvicky/LumiSticker")
             .header("X-Title", "Lumi Stickerize")
             .post(body.toString().toRequestBody("application/json".toMediaType()))
             .build()

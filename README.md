@@ -6,7 +6,7 @@
 
 *1–3 foto · 1 gambar AI · 3–10 stiker · 20 paket tema · 2.000 kata & pose · langsung masuk WhatsApp*
 
-[![Rilis](https://img.shields.io/github/v/release/vickyvam72/LumiStickerize?label=rilis&color=3E84E8&style=for-the-badge)](https://github.com/vickyvam72/LumiStickerize/releases/latest)
+[![Rilis](https://img.shields.io/github/v/release/VAMvicky/LumiSticker?label=rilis&color=3E84E8&style=for-the-badge)](https://github.com/VAMvicky/LumiSticker/releases/latest)
 [![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-kebutuhan-sistem)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#%EF%B8%8F-teknologi)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Stiker-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#-fitur)
@@ -122,7 +122,7 @@
 
 ## ⬇️ Unduh & Pasang
 
-1. Buka halaman **[Releases](https://github.com/vickyvam72/LumiStickerize/releases/latest)**.
+1. Buka halaman **[Releases](https://github.com/VAMvicky/LumiSticker/releases/latest)**.
 2. Di bagian **Assets**, unduh `LumiStickerize-v2.2.apk`.
 3. Buka file yang sudah diunduh. Kalau Android meminta, izinkan **"Instal aplikasi tidak dikenal"** untuk browser atau pengelola file yang kamu pakai.
 4. Tekan **Instal**. Selesai! 🎉
@@ -264,8 +264,8 @@ app/src/main/assets/tema.json         # 20 paket tema × 100 kata & pose (dibuat
 
 ### 🏗️ Build dari kode sumber
 ```bash
-git clone https://github.com/vickyvam72/LumiStickerize.git
-cd LumiStickerize
+git clone https://github.com/VAMvicky/LumiSticker.git
+cd LumiSticker
 gradle :app:assembleRelease   # Gradle 8.11.1, JDK 17
 ```
 APK hasil build ada di `app/build/outputs/apk/release/`.
@@ -304,7 +304,7 @@ Gunakan hanya foto milikmu sendiri atau foto orang yang sudah memberi izin. Biay
 
 ## 📄 Lisensi
 
-Hak cipta © 2026 **vickyvam72**.
+Hak cipta © 2026 **VAMvicky**.
 
 Lumi Stickerize adalah perangkat lunak bebas: kamu boleh menyebarluaskan dan/atau mengubahnya di bawah ketentuan **[GNU General Public License v3.0](LICENSE)** yang diterbitkan oleh Free Software Foundation. Program ini disebarkan dengan harapan bermanfaat, tetapi **TANPA JAMINAN APA PUN**. Baca file [LICENSE](LICENSE) untuk detail lengkapnya.
 

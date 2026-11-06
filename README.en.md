@@ -6,7 +6,7 @@
 
 *1–3 photos · 1 AI image · 3–10 stickers · 20 theme packs · 2,000 captions & poses · straight into WhatsApp*
 
-[![Release](https://img.shields.io/github/v/release/vickyvam72/LumiStickerize?label=release&color=3E84E8&style=for-the-badge)](https://github.com/vickyvam72/LumiStickerize/releases/latest)
+[![Release](https://img.shields.io/github/v/release/VAMvicky/LumiSticker?label=release&color=3E84E8&style=for-the-badge)](https://github.com/VAMvicky/LumiSticker/releases/latest)
 [![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-requirements)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#%EF%B8%8F-tech-stack)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Stickers-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#-features)
@@ -122,7 +122,7 @@
 
 ## ⬇️ Download & Install
 
-1. Go to the **[Releases](https://github.com/vickyvam72/LumiStickerize/releases/latest)** page.
+1. Go to the **[Releases](https://github.com/VAMvicky/LumiSticker/releases/latest)** page.
 2. Under **Assets**, download `LumiStickerize-v2.2.apk`.
 3. Open the downloaded file. If Android asks, allow **"Install unknown apps"** for your browser or file manager.
 4. Tap **Install**. Done! 🎉
@@ -262,8 +262,8 @@ app/src/main/assets/tema.json         # 20 theme packs × 100 captions & poses (
 
 ### 🏗️ Building from source
 ```bash
-git clone https://github.com/vickyvam72/LumiStickerize.git
-cd LumiStickerize
+git clone https://github.com/VAMvicky/LumiSticker.git
+cd LumiSticker
 gradle :app:assembleRelease   # Gradle 8.11.1, JDK 17
 ```
 The APK is written to `app/build/outputs/apk/release/`.
@@ -302,7 +302,7 @@ Only use photos of yourself or of people who have given their permission. AI usa
 
 ## 📄 License
 
-Copyright © 2026 **vickyvam72**.
+Copyright © 2026 **VAMvicky**.
 
 Lumi Stickerize is free software: you can redistribute it and/or modify it under the terms of the **[GNU General Public License v3.0](LICENSE)** as published by the Free Software Foundation. It is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY**. See the [LICENSE](LICENSE) file for details.
 
